@@ -4,7 +4,7 @@ Application to capture video presentations running on your computer screen and c
 
 ## Description
 
-More to follow...
+I take a lot of online classes and most of them provide the powerpoint slides to review the material at a later date. Unfortunately, some courses do not provide the slides. Rather than taking screenshots for every new slide that pops up on the video, Video-to-PowerPoint is a application that converts streaming video on your computer screen to powerpoint slides and saves them on your computer.
 
 ## Project Status
 
@@ -25,7 +25,7 @@ Currently converting Jupyter notebook to python file
 
 ## Usage
 
-Open Video_to_PowerPoint.ipnb in jupyter notebook and execute cells.
+Open Video_to_PowerPoint.ipynb in jupyter notebook. Change PowerPoint file name. 
 
 Python file is a work in progress
 
