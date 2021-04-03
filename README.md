@@ -41,4 +41,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please email plemons.derek@gmail.com for any questions.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/dplem/Video-to-PowerPoint/blob/main/LICENSE.txt)
