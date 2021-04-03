@@ -31,7 +31,7 @@ Python file is a work in progress
 
 ## Roadmap
 
-More to follow...
+Once the jupyter notebook has been converted to a python file, I intend to build a Tkinter GUI for ease of use.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
