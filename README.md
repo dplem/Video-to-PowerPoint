@@ -4,7 +4,7 @@ Application to capture video presentations running on your computer screen and c
 
 ## Description
 
-I take a lot of online classes and most of them provide the powerpoint slides to review the material at a later date. Unfortunately, some courses do not provide the slides. Rather than taking screenshots for every new slide that pops up on the video, Video-to-PowerPoint is a application that converts streaming video on your computer screen to powerpoint slides and saves them on your computer.
+When taking an online course or watching a presentation live, sometimes you are not provided the powerpoint slides. Rather than taking screenshots for every new slide, Video-to-PowerPoint automatically converts streaming video on your computer screen to powerpoint slides.
 
 ## Project Status
 
