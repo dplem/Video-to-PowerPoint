@@ -23,6 +23,10 @@ Currently converting Jupyter notebook to python file
 [Time](https://docs.python.org/3/library/time.html): Suspends execution of while loop to take a screenshot every 5 seconds.
 
 
+## Visuals
+
+Coming Soon
+
 ## Usage
 
 Open Video_to_PowerPoint.ipynb in jupyter notebook. Change PowerPoint file name. 
